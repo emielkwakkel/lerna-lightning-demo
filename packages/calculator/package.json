@@ -1,6 +1,6 @@
 {
   "name": "@my-app/calculator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "> TODO: description",
   "author": "Emiel Kwakkel <emiel.kwakkel@rabobank.nl>",
   "homepage": "https://github.com/emielkwakkel/lerna-lightning-demo#readme",
