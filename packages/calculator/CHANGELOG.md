@@ -1,0 +1,11 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 0.1.0 (2019-06-20)
+
+
+### Features
+
+* **@my-app/calculator:** add calculator ([b0e815a](https://github.com/emielkwakkel/lerna-lightning-demo/commit/b0e815a))
