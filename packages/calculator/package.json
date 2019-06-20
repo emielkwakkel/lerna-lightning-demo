@@ -1,5 +1,5 @@
 {
-  "name": "@my-app/calculator",
+  "name": "@my-apps/calculators",
   "version": "0.1.10",
   "description": "> TODO: description",
   "author": "Emiel Kwakkel <emiel.kwakkel@rabobank.nl>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/emielkwakkel/lerna-lightning-demo/issues"
   },
-  "gitHead": "7439afd322b424d4b591fa23e3703779fe299468"
+  "gitHead": "4de9368b489a7796d94a7ca79ab0b0c5e605f326"
 }
